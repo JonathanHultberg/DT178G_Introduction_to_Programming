@@ -1,0 +1,25 @@
+Alice;Andersson;Storgatan 1;12345;Stockholm;alice.andersson@example.com;0701234567;1990-01-01
+Björn;Berggren;Sollentunavägen 23;19278;Sollentuna;bjorn.berggren@example.com;0709876543;1985-03-15
+Jonas;Bergström;Vikingabacken 5;83671;Ås;jonas.bergstrom@gmail.com;0766547898;1988-06-11
+Cecilia;Carlsson;Västgötagatan 12;41123;Göteborg;cecilia.carlsson@example.com;0731239876;1992-06-30
+David;Dahl;Skogsvägen 45;98122;Kiruna;david.dahl@example.com;0724567890;1988-12-24
+Emma;Eklund;Blomvägen 8;22222;Lund;emma.eklund@example.com;0761122334;1995-05-05
+Fredrik;Forsberg;Kungsgatan 77;11122;Stockholm;fredrik.forsberg@example.com;0739988776;1982-07-20
+Gabriella;Gustafsson;Södra Vägen 15;43210;Halmstad;gabriella.gustafsson@example.com;0706543211;1994-09-12
+Håkan;Hansson;Norra Allén 3;72210;Västerås;hakan.hansson@example.com;0762233445;1989-04-18
+Jonathan;Hultberg;Östra långgatan 34C;85236;Sundsvall;johu1701@student.miun.se;0760156859;1998-05-25
+Isabella;Isaksson;Trädgårdsgatan 9;75333;Uppsala;isabella.isaksson@example.com;0735544332;1991-11-11
+Johan;Jansson;Örebrovägen 5;70362;Örebro;johan.jansson@example.com;0727766554;1987-08-08
+Karin;Karlsson;Villagatan 34;63220;Eskilstuna;karin.karlsson@example.com;0707788996;1990-02-14
+Lars;Lindberg;Bäckgatan 12;35221;Växjö;lars.lindberg@example.com;0769988771;1984-10-05
+Maria;Mattsson;Svanvägen 14;98143;Luleå;maria.mattsson@example.com;0725543321;1993-03-30
+Nils;Norén;Sjövägen 23;21612;Malmö;nils.noren@example.com;0704422112;1986-06-16
+Olivia;Olofsson;Havetgatan 56;61131;Nyköping;olivia.olofsson@example.com;0731212121;1997-01-23
+Per;Petersson;Sjöviksgatan 7;44344;Kungälv;per.petersson@example.com;0728887766;1980-12-10
+Quinn;Quist;Hamngatan 9;21122;Malmö;quinn.quist@example.com;0762211443;1999-09-09
+Robin;Rosengren;Älvgatan 8;87110;Härnösand;robin.rosengren@example.com;0703344556;1992-08-25
+Markus;Saarela;Östra långgatan 34C;85236;Sundsvall;maarkussaareka@live.se;0703835464;1994-04-11
+Tarja;Saarela;Lugnagatan 1;46159;Trollhättan;tasa71@telia.com;0704103819;1971-03-15
+Sofia;Sundström;Parkgatan 2;54130;Skövde;sofia.sundstrom@example.com;0736655443;1996-04-04
+Tommy;Thorén;Tallbacken 11;62133;Visby;tommy.thoren@example.com;0761122445;1983-05-21
+Alfons;Åhberg;Brunkullas väg 17;12345;Narnia;alfons@åhberg.nu;0730786578;1962-12-24
